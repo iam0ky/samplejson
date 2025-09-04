@@ -1,0 +1,18 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "ArrivalDate": "2025-12-25",
+      "fullDueDate": "2025-12-15",
+      "emailAddress": "nkrishnan@integrisgroup.com",
+      "reservationID": "K84KSJ4J",
+      "depositDueDate": "2025-11-22"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}
