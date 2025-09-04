@@ -9,10 +9,20 @@
       "depositDueDate": "2025-11-22"
     },
     {
-      "id": 2
+      "id": 2,
+      "ArrivalDate": "2025-12-26",
+      "fullDueDate": "2025-12-16",
+      "emailAddress": "nkrishnan2@integrisgroup.com",
+      "reservationID": "K84KSJ4K",
+      "depositDueDate": "2025-11-23"
     },
     {
-      "id": 3
+      "id": 3,
+      "ArrivalDate": "2025-12-27",
+      "fullDueDate": "2025-12-17",
+      "emailAddress": "nkrishnan3@integrisgroup.com",
+      "reservationID": "K84KSJ4L",
+      "depositDueDate": "2025-11-24"
     }
   ]
 }
